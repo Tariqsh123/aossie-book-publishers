@@ -2609,9 +2609,10 @@ section.process-area {
     padding: 65px 0 30px
 }
 
-section.process-area .row:first-child {
+
+/* section.process-area .row:first-child {
     margin-bottom: 60px
-}
+} */
 
 section.process-area .process-card {
     background: linear-gradient(#c00023, #E4002B);
